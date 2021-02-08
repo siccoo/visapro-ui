@@ -6,7 +6,11 @@ const Home = () => {
     useEffect(() => {
         document.title = "Visapro | Travel anywhere in the world...";
     }, []);
-
+    return (
+        <div>
+            
+        </div>
+    )
 }
 
 export default Home;
