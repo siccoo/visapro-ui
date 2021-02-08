@@ -23,3 +23,38 @@
         width: 60px;
     }
 }
+
+.navbar-nav .nav-item .nav-link {
+    font-family: "Montserrat";
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF !important;
+}
+
+@media only screen and (max-width:1024px) {
+    .navbar-nav .nav-item .nav-link {
+       font-size: 12px; 
+       line-height: 14px;
+    }
+}
+
+.navbar-nav .nav-item .nav-btn {
+    background: #F78500;
+    border-radius: 49px;
+    color: #FFFFFF !important;
+    font-family: "Montserrat";
+    font-size: 18px;
+    line-height: 25px;
+    padding: 10px 30px;
+    max-width: 166px;
+    text-decoration: none;
+   }
+
+   @media only screen and (max-width:1024px) {
+    .navbar-nav .nav-item .nav-btn {
+       font-size: 12px; 
+       line-height: 20px;
+       /* border-radius: 2px; */
+       padding: 8px 10px;
+    }
+}
