@@ -9,3 +9,17 @@
 .nav-bg {
     background: transparent !important;
 }
+
+.navbar-nav .nav-item {
+    padding-right:20px;
+}
+
+.home-logo {
+    width: 90px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .home-logo {
+        width: 60px;
+    }
+}
