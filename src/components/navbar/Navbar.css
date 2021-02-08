@@ -1,1 +1,11 @@
+/* NAVIGATION BAR STYLING */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Raleway:wght@700&family=Roboto&display=swap');
+
+.navbar {
+    padding: 0px;
+}
+
+.nav-bg {
+    background: transparent !important;
+}
