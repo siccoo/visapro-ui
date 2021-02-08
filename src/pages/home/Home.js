@@ -11,7 +11,16 @@ const Home = () => {
         <div>
             <section className="header">
                 <Navbar />
-                
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-12 text-center">
+                            <h1>The world is yours to explore</h1>
+                            <div className="gray-border">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </section>
         </div>
     )
