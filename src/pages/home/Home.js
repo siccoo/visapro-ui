@@ -15,7 +15,7 @@ const Home = () => {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             <h1>The world is yours to explore</h1>
-                            <div className="gray-border">
+                            <div className="gray-border ">
                                 <form>
                                     <div className="form-row align-self-center">
                                         <div className="col-auto my-1">
