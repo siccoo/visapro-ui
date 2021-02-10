@@ -48,7 +48,12 @@ const Home = () => {
             <section className="home1">
                 <div className="container">
                     <div className="row">
-
+                        <div className="col-md-12">
+                            <h3>Top destinations</h3>
+                        </div>
+                    </div>
+                    <div className="row">
+                        
                     </div>
                 </div>
             </section>
