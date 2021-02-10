@@ -20,7 +20,7 @@ const Home = () => {
                                     <div className="form-row align-self-center">
                                         <div className="col-auto my-1">
                                             <select className=" mr-sm-2" id="">
-                                                <option selected>Choose...</option>
+                                                <option selected>Select Country</option>
                                                 <option value="1">One</option>
                                                 <option value="2">Two</option>
                                                 <option value="3">Three</option>
