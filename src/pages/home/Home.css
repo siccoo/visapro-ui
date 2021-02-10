@@ -46,6 +46,7 @@
 }
 
 .header .gray-border {
+    max-width: 1000px;
     background: #FFFFFF;
     opacity: 0.4;
     box-shadow: 0px 0px 47px #0000001a;
