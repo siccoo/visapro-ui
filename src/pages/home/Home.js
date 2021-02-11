@@ -7,6 +7,8 @@ import UK from "../../images/UK.jpg";
 import FR from "../../images/FR.jpg";
 import DUB from "../../images/DUB.jpg";
 
+import { FiChevronRight } from "react-icons/fi";
+
 const Home = () => {
     useEffect(() => {
         document.title = "Visapro | Travel anywhere in the world...";
@@ -62,7 +64,7 @@ const Home = () => {
                                 <img src={UK} className="img-fluid home1-img" />
                                 <div className="txt-box">
                                     <h6>United Kingdom</h6>
-                                    <p>Learn More </p>
+                                    <p>Learn More <FiChevronRight /> </p>
                                 </div>
                             </div>
                         </div> 
