@@ -58,7 +58,13 @@ const Home = () => {
                     </div>
                     <div className="row">
                        <div className="col-md-3">
-
+                            <div className="img-box">
+                                <img src={UK} className="" />
+                                <div className="txt-box">
+                                    <h6>United Kingdom</h6>
+                                    <p>Learn More </p>
+                                </div>
+                            </div>
                         </div> 
                     </div>
                 </div>
