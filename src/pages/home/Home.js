@@ -3,6 +3,10 @@ import { Link } from "react-router-dom";
 import Navbar from "../../components/navbar/Navbar";
 import "./Home.css";
 
+import UK from "../../images/UK.jpg";
+import FR from "../../images/FR.jpg";
+import DUB from "../../images/DUB.jpg";
+
 const Home = () => {
     useEffect(() => {
         document.title = "Visapro | Travel anywhere in the world...";
@@ -53,7 +57,9 @@ const Home = () => {
                         </div>
                     </div>
                     <div className="row">
-                        
+                       <div className="col-md-3">
+
+                        </div> 
                     </div>
                 </div>
             </section>
