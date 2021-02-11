@@ -75,9 +75,14 @@
     }
 }
 
-.img.box {
+.img-box {
     background: #FFFFFF;
     border: 0.4px solid #BDBDBD;
     box-sizing: border-box;
-    border-radius: 8px;
+    border-radius: 8px 8px 0px 0px;
+    margin-top: 30px;
+}
+
+.img-box .home1-img {
+    border-radius: 8px
 }
