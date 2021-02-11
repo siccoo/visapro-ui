@@ -74,3 +74,10 @@
         line-height: 20px;
     }
 }
+
+.img.box {
+    background: #FFFFFF;
+    border: 0.4px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
