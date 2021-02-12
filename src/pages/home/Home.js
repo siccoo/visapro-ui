@@ -61,7 +61,7 @@ const Home = () => {
                     <div className="row">
                        <div className="col-md-3">
                             <div className="img-box">
-                                <img src={UK} className="img-fluid home1-img" />
+                                <img src={UK} alt="home1-img" className="img-fluid home1-img" />
                                 <div className="txt-box">
                                     <h6>United Kingdom</h6>
                                     <p>Learn More <FiChevronRight /> </p>
