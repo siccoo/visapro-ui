@@ -8,6 +8,7 @@ import FR from "../../images/FR.jpg";
 import DUB from "../../images/DUB.jpg";
 
 import { FiChevronRight } from "react-icons/fi";
+import { FiChevronDown } from "react-icons/fi";
 
 const Home = () => {
     useEffect(() => {
@@ -103,6 +104,10 @@ const Home = () => {
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    <div className="col-md-12 text-center">
+                        <p>View More</p>
+                        <div className="circle"> <FiChevronDown className="arrow-downward" /> </div>
                     </div>
                 </div>
             </section>
