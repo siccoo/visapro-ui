@@ -121,5 +121,7 @@
     color: #5e6a71;
     display: inline-block;
     width: 120px;
+    margin-left: 2px; 
+    word-spacing: 5px;
     text-decoration: none !important;
 }

@@ -64,7 +64,9 @@ const Home = () => {
                                 <img src={UK} alt="home1-img" className="img-fluid home1-img" />
                                 <div className="txt-box">
                                     <h6>United Kingdom</h6>
-                                    <Link to="/" className="p">Learn More <FiChevronRight /> </Link>
+                                    <Link to="/" className="p">
+                                        Learn More <FiChevronRight /> 
+                                    </Link>
                                 </div>
                             </div>
                         </div> 
