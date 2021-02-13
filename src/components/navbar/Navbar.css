@@ -11,7 +11,7 @@
 }
 
 .navbar-nav .nav-item {
-    padding-right:20px;
+    padding-right: 20px;
 }
 
 .home-logo {
@@ -44,13 +44,13 @@
     color: #FFFFFF !important;
     font-family: "Montserrat";
     font-size: 18px;
-    line-height: 25px;
+    line-height: 40px;
     padding: 10px 30px;
     max-width: 166px;
     text-decoration: none;
-   }
+}
 
-   @media only screen and (max-width:1024px) {
+@media only screen and (max-width:1024px) {
     .navbar-nav .nav-item .nav-btn {
        font-size: 12px; 
        line-height: 20px;
