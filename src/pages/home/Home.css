@@ -94,6 +94,14 @@
 }
 
 .img-box .txt-box {
-    padding: 7px
+    padding: 7px;
+    display: inline-block;
 }
 
+.txt-box h6 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+
+}
