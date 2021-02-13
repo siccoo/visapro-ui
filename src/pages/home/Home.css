@@ -106,6 +106,7 @@
     line-height: 16px;
     color: #004B75;
     display: inline-block;
+    vertical-align: top;
     width: 113px;
 }
 
@@ -116,4 +117,7 @@
     font-size: 12px;
     line-height: 16px;
     color: #5e6a71;
+    display: inline-block;
+    vertical-align: top;
+    width: 123px;
 }
