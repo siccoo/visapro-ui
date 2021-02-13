@@ -103,5 +103,15 @@
     font-style: normal;
     font-weight: bold;
     font-size: 12px;
+    line-height: 16px;
+    color: #004B75;
+}
 
+.txt-box p {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    color: #5e6a71;
 }
