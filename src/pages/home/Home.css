@@ -95,7 +95,7 @@
 
 .img-box .txt-box {
     padding: 7px;
-    display: inline-block;
+    max-width: 272px;
 }
 
 .txt-box h6 {
@@ -105,6 +105,8 @@
     font-size: 12px;
     line-height: 16px;
     color: #004B75;
+    display: inline-block;
+    width: 113px;
 }
 
 .txt-box p {
