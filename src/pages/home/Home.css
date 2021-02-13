@@ -79,7 +79,7 @@
     background: #FFFFFF;
     border: 0.4px solid #BDBDBD;
     box-sizing: border-box;
-    border-radius: 8px 8px 0px 0px;
+    border-radius: 8px;
     margin-top: 40px;
 }
 
@@ -94,7 +94,7 @@
 }
 
 .img-box .txt-box {
-    padding: 0 7px 0px 7px;
+    padding: 3px 7px 3px 7px;
     max-width: 282px;
 }
 

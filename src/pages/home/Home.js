@@ -70,6 +70,39 @@ const Home = () => {
                                 </div>
                             </div>
                         </div> 
+                        <div className="col-md-3">
+                            <div className="img-box">
+                                <img src={FR} alt="home1-img" className="img-fluid home1-img" />
+                                <div className="txt-box">
+                                    <h6>France</h6>
+                                    <Link to="/" className="p">
+                                        Learn More <FiChevronRight /> 
+                                    </Link>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-3">
+                            <div className="img-box">
+                                <img src={DUB} alt="home1-img" className="img-fluid home1-img" />
+                                <div className="txt-box">
+                                    <h6>Dubai</h6>
+                                    <Link to="/" className="p">
+                                        Learn More <FiChevronRight /> 
+                                    </Link>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-3">
+                            <div className="img-box">
+                                <img src={DUB} alt="home1-img" className="img-fluid home1-img" />
+                                <div className="txt-box">
+                                    <h6>Dubai</h6>
+                                    <Link to="/" className="p">
+                                        Learn More <FiChevronRight /> 
+                                    </Link>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
