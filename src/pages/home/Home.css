@@ -168,3 +168,19 @@
     background: #ffffff;
     padding: 50px 0 50px 0;
 }
+
+.home2 h3 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+    color: #707070;
+}
+
+@media only screen and (max-width: 1024px) {
+    .home2 h3 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+}

@@ -112,7 +112,19 @@ const Home = () => {
                 </div>
             </section>
             <section className="home2">
-
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-12">
+                            <h3>Why use Visapro</h3>
+                        </div>
+                        <div className="col-md-3">
+                            <div className="img-box">
+                                <img src={DUB} alt="home2-img" className="img-fluid home2-img" /> 
+                                <p></p>  
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </section>
         </div>
     )
