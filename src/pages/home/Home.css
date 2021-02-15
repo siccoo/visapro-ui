@@ -187,7 +187,7 @@
 
 .home2 .home2-img {
     margin-top: 15px;
-    padding: 50px 53px 50px 51px;
+    padding: 45px 48px 45px 46px;
 }
 
 .img-box p {
@@ -197,7 +197,6 @@
     font-size: 19px;
     line-height: 21px;
     color: #707070; 
-    /* text-align: center; */
 }
 
 @media only screen and (max-width: 1024px) {
@@ -206,3 +205,4 @@
         line-height: 16px;
     }
 }
+

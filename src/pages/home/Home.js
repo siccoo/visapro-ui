@@ -145,6 +145,11 @@ const Home = () => {
                                 <p>Secure payment</p>  
                             </div>
                         </div>
+                        <div className="text-center">
+                            <Link to="/" className="btn">
+                                Apply Now  
+                            </Link>
+                        </div>
                     </div>
                 </div>
             </section>
