@@ -136,7 +136,13 @@ const Home = () => {
                         <div className="col-md-3">
                             <div className="img-box">
                                 <img src={Track} alt="home2-img" className="img-fluid home2-img" /> 
-                                <p>Reliable support</p>  
+                                <p>Track visa process</p>  
+                            </div>
+                        </div>
+                        <div className="col-md-3">
+                            <div className="img-box">
+                                <img src={Secure} alt="home2-img" className="img-fluid home2-img" /> 
+                                <p>Secure payment</p>  
                             </div>
                         </div>
                     </div>
