@@ -127,6 +127,12 @@ const Home = () => {
                                 <p>Easy to use</p>  
                             </div>
                         </div>
+                        <div className="col-md-3">
+                            <div className="img-box">
+                                <img src={Easy} alt="home2-img" className="img-fluid home2-img" /> 
+                                <p>Easy to use</p>  
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>

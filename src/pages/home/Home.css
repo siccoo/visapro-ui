@@ -185,7 +185,15 @@
     }
 }
 
-.img-box .home2-img {
-    padding: 50px;
+.home2 .home2-img {
+    padding: 25px;
 }
 
+.img-box p {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #707070;
+}
