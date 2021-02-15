@@ -6,6 +6,8 @@ import "./Home.css";
 import UK from "../../images/UK.jpg";
 import FR from "../../images/FR.jpg";
 import DUB from "../../images/DUB.jpg";
+import Easy from "../../images/communication.jpg";
+import Support from "../../images/customer support.jpg";
 
 import { FiChevronRight } from "react-icons/fi";
 import { FiChevronDown } from "react-icons/fi";
