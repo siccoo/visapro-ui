@@ -105,7 +105,7 @@ const Home = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="round align-self-center">
+                    <div className="round">
                         <p>View More</p>
                         <div className="circle"> <FiChevronDown className="arrow-downward" /> </div>
                     </div>
