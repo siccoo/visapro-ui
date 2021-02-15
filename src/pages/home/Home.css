@@ -140,23 +140,23 @@
     }
 }
 
-.home1 p {
+.round p {
     font-family: "Montserrat";
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
     color: #707070;
-    margin-top: 60px;
-    text-align: center !important;
+    margin-top: 150px;
+    text-align: center;
 }
 
-.circle {
+.round .circle {
     border-radius: 50%;
     background: #F78500;
     position: absolute;
-    bottom: 50%;
-    max-width: 72px;
+    bottom: 0;
+    max-width: 52px;
     margin-left: auto;
     margin-right: auto;
     left: 0;
