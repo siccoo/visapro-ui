@@ -129,8 +129,14 @@ const Home = () => {
                         </div>
                         <div className="col-md-3">
                             <div className="img-box">
-                                <img src={Easy} alt="home2-img" className="img-fluid home2-img" /> 
-                                <p>Easy to use</p>  
+                                <img src={Support} alt="home2-img" className="img-fluid home2-img" /> 
+                                <p>Reliable support</p>  
+                            </div>
+                        </div>
+                        <div className="col-md-3">
+                            <div className="img-box">
+                                <img src={Track} alt="home2-img" className="img-fluid home2-img" /> 
+                                <p>Reliable support</p>  
                             </div>
                         </div>
                     </div>
