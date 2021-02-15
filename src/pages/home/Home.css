@@ -154,10 +154,12 @@
     text-align: center !important;
 }
 
-.round .circle {
+.circle {
     border-radius: 50%;
     background: #F78500;
     position: absolute;
     bottom: 50%;
-    max-width: 52px;
+    max-width: 72px;
+    margin-top: 10px;
+    
 }
