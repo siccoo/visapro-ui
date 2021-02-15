@@ -111,6 +111,9 @@ const Home = () => {
                     </div>
                 </div>
             </section>
+            <section className="home2">
+
+            </section>
         </div>
     )
 }
