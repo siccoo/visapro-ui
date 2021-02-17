@@ -214,7 +214,7 @@
     font-family: "Montserrat";
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 25px;
     color: #FFFFFF;
     margin-top: 60px;
@@ -223,7 +223,7 @@
 
 @media only screen and (max-width:1024px) {
     .home2 .btn {
-       font-size: 14px; 
+       font-size: 12px; 
        line-height: 18px;
        padding: 10px 15px !important;
        margin-top: 20px;
