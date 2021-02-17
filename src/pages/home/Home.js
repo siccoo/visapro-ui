@@ -145,7 +145,7 @@ const Home = () => {
                                 <p>Secure payment</p>  
                             </div>
                         </div>
-                        <div className="col-md-12 m-0">
+                        <div className="col-md-12 text-center">
                             <Link to="/" className="btn">
                                 Apply Now  
                             </Link>
