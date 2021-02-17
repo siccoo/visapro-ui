@@ -153,6 +153,9 @@ const Home = () => {
                     </div>
                 </div>
             </section>
+            <section class="home3">
+
+            </section>
         </div>
     )
 }
