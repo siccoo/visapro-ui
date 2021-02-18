@@ -172,12 +172,12 @@ const Home = () => {
             <section className="home4">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-6 pl-5">
+                        <div className="col-md-6 left-col">
                             <h1>Get in Touch</h1>
                             <p>Get in touch with us. We normally respond within the hour.</p>
-                            
+
                         </div>
-                        <div className="col-md-6">
+                        <div className="col-md-6 right-col">
                             <h1>Contact Us</h1>
                         </div>
                     </div>

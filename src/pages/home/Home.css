@@ -245,12 +245,23 @@
     padding: 70px 0 70px 0;   
 }
 
+.home4 .left-col {
+    padding-left: 40px;
+}
+
 .home4 h1 {
     font-family: "Raleway";
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 64px;
+    font-size: 40px;
+    line-height: 56px;
     font-feature-settings: 'pnum' on, 'lnum' on;
     color: #333333;
+}
+
+@media only screen and (max-width: 1024px) {
+    .home4 h1 {
+        font-size: 20px;
+        line-height: 35px;
+    }
 }
