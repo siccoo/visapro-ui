@@ -11,6 +11,7 @@ import Support from "../../images/customer support.jpg";
 import Track from "../../images/progress.jpg";
 import Secure from "../../images/secure.jpg";
 import ColImg from "../../images/Component3.svg";
+import ColImg2 from "../../images/Testimonial.svg";
 
 import { FiChevronRight } from "react-icons/fi";
 import { FiChevronDown } from "react-icons/fi";
@@ -160,8 +161,10 @@ const Home = () => {
                         <div className="col-md-12">
                             <img src={ColImg} alt="home3-img" className="home3-img" />
                         </div>
-                        <div className="col-md-12 m-2">
-                            <img src={ColImg2} alt="home3-img" className="home3-img" />
+                    </div>
+                    <div className="row">
+                        <div className="col-md-12">
+                            <img src={ColImg2} alt="home3-img2" className="home3-img2" />
                         </div>
                     </div>
                 </div>
