@@ -10,6 +10,7 @@ import Easy from "../../images/communication.jpg";
 import Support from "../../images/customer support.jpg";
 import Track from "../../images/progress.jpg";
 import Secure from "../../images/secure.jpg";
+import ColImg from "../../images/Component3.svg";
 
 import { FiChevronRight } from "react-icons/fi";
 import { FiChevronDown } from "react-icons/fi";
@@ -157,7 +158,7 @@ const Home = () => {
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <img src={} />
+                            <img src={ColImg} alt="home3-img" className="home3-img" />
                         </div>
                     </div>
                 </div>
