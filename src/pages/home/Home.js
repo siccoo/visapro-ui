@@ -154,11 +154,14 @@ const Home = () => {
                     </div>
                 </div>
             </section>
-            <section class="home3">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
+            <section className="home3">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-12">
                             <img src={ColImg} alt="home3-img" className="home3-img" />
+                        </div>
+                        <div className="col-md-12 m-2">
+                            <img src={ColImg2} alt="home3-img" className="home3-img" />
                         </div>
                     </div>
                 </div>
