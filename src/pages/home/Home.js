@@ -10,6 +10,9 @@ import Easy from "../../images/communication.jpg";
 import Support from "../../images/customer support.jpg";
 import Track from "../../images/progress.jpg";
 import Secure from "../../images/secure.jpg";
+import Phone from "../../images/Phone-Number.jpg";
+import Mail from "../../images/Email.jpg";
+import Location from "../../images/Map-Street.jpg";
 import ColImg from "../../images/Component3.svg";
 import ColImg2 from "../../images/Testimonial.svg";
 
@@ -175,7 +178,9 @@ const Home = () => {
                         <div className="col-md-6 left-col">
                             <h1>Get in Touch</h1>
                             <p>Get in touch with us. We normally respond within the hour.</p>
-
+                            <img src={Phone} alt="icons" className="icons" />
+                            <img src={Mail} alt="icons" className="icons" />
+                            <img src={Location} alt="icons" className="icons" />
                         </div>
                         <div className="col-md-6 right-col">
                             <h1>Contact Us</h1>
