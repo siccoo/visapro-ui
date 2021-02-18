@@ -171,7 +171,7 @@ const Home = () => {
             </section>
             <section className="home4">
                 <div className="container">
-                    <div className="row">
+                    <div className="row justify-content-center">
                         <div className="col-md-6 left-col">
                             <h1>Get in Touch</h1>
                             <p>Get in touch with us. We normally respond within the hour.</p>
