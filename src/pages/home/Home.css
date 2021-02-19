@@ -317,3 +317,11 @@ input[type="email"] {
     border-radius: 8px;
     width: 100%;
 }
+
+@media only screen and (max-width: 1024px) {
+    .home4 input[type="text"],
+    input[type="email"] {
+        padding: .4em .3em;
+        width: 100%;
+    }
+}
