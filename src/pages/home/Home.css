@@ -351,3 +351,8 @@ input[type="email"] {
         padding: .2em .2em;
     }
 }
+
+.home4 button {
+    background: #FD6B3B;
+    border-radius: 8px;
+}
