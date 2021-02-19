@@ -308,3 +308,12 @@
     }
 }
 
+.home4 input[type="text"],
+input[type="email"] {
+    padding: .6em .5em;
+    background: #FFFFFF;
+    border: 1px solid #536B79;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 100%;
+}
