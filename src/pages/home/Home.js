@@ -196,9 +196,14 @@ const Home = () => {
                                     <input type="text" placeholder="Enter your full name" id="full_name" />
                                 </div>
                                 <div className="form-group">
-                                            <label for="exampleInputEmail1">Email Address <span>*</span></label>
-                                            <input type="email" placeholder="Enter your email address" id="email"  />
-                                        </div>
+                                    <label for="exampleInputEmail1">Email Address <span>*</span></label>
+                                    <input type="email" placeholder="Enter your email address" id="email"  />
+                                </div>
+                                <div className="form-group">
+                                    <label for="help">How May We Help You <span>*</span></label>
+                                    <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Tell us anything" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
+                                </div>
+                                <button type="submit" className="">Send</button>
                             </form>
                         </div>
                     </div>
