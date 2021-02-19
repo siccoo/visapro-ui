@@ -325,3 +325,15 @@ input[type="email"] {
         width: 100%;
     }
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+        font-size: 10px;
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: normal;
+        line-height: 150%;
+        color: #999999;
+      }
+}
+
