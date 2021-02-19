@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Navbar from "../../components/navbar/Navbar";
+import Footer from "../../components/footer/Footer";
 import "./Home.css";
 
 import UK from "../../images/UK.jpg";
@@ -211,6 +212,9 @@ const Home = () => {
                         <div className="col-md-2"></div>
                     </div>
                 </div>
+            </section>
+            <section>
+                <Footer />
             </section>
         </div>
     )
