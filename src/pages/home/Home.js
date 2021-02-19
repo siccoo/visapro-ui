@@ -178,9 +178,15 @@ const Home = () => {
                         <div className="col-md-6 left-col">
                             <h1>Get in Touch</h1>
                             <p>Get in touch with us. We normally respond within the hour.</p>
-                            <img src={Phone} alt="icons" className="icons" />
-                            <img src={Mail} alt="icons" className="icons" />
-                            <img src={Location} alt="icons" className="icons" />
+                            <p>
+                                <img src={Phone} alt="icons" className="icons" />
+                            </p>
+                            <p>
+                                <img src={Mail} alt="icons" className="icons" />
+                            </p>
+                            <p>
+                                <img src={Location} alt="icons" className="icons" />
+                            </p>
                         </div>
                         <div className="col-md-6 right-col">
                             <h1>Contact Us</h1>
