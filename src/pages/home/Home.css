@@ -366,3 +366,9 @@ input[type="email"] {
     border: none;
 }
 
+@media only screen and (max-width: 1024px) {
+    .home4 button {
+        padding: 8px 18px;
+        font-size: 12px;
+    }
+}
