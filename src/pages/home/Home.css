@@ -286,3 +286,9 @@
 .home4 .icons {
     margin-top: 30px;
 }
+
+@media only screen and (max-width: 1024px) {
+    .home4 .icons {
+       margin-top: 10px; 
+    }
+}
