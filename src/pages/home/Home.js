@@ -190,18 +190,19 @@ const Home = () => {
                         </div>
                         <div className="col-md-6 right-col">
                             <h1>Contact Us</h1>
+                            <p></p>
                             <form action="#" method="post" className="contact-form" ariarole="form" id="contact-form">
                                 <div className="form-group">
-                                    <label for="exampleInputFullName1">Full Name <span>*</span></label>
-                                    <input type="text" placeholder="Enter your full name" id="full_name" />
+                                    <label for="exampleInputFullName1">Name </label>
+                                    <input type="text" placeholder="Enter your name" id="name" />
                                 </div>
                                 <div className="form-group">
-                                    <label for="exampleInputEmail1">Email Address <span>*</span></label>
-                                    <input type="email" placeholder="Enter your email address" id="email"  />
+                                    <label for="exampleInputEmail1">Email Address </label>
+                                    <input type="email" placeholder="Enter your email" id="email"  />
                                 </div>
                                 <div className="form-group">
-                                    <label for="help">How May We Help You <span>*</span></label>
-                                    <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Tell us anything" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
+                                    <label for="help">Message </label>
+                                    <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Enter your message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
                                 </div>
                                 <button type="submit" className="">Send</button>
                             </form>
