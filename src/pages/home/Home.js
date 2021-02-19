@@ -190,6 +190,16 @@ const Home = () => {
                         </div>
                         <div className="col-md-6 right-col">
                             <h1>Contact Us</h1>
+                            <form action="#" method="post" className="contact-form" ariarole="form" id="contact-form">
+                                <div className="form-group">
+                                    <label for="exampleInputFullName1">Full Name <span>*</span></label>
+                                    <input type="text" placeholder="Enter your full name" id="full_name" />
+                                </div>
+                                <div className="form-group">
+                                            <label for="exampleInputEmail1">Email Address <span>*</span></label>
+                                            <input type="email" placeholder="Enter your email address" id="email"  />
+                                        </div>
+                            </form>
                         </div>
                     </div>
                 </div>
