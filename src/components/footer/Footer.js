@@ -48,7 +48,12 @@ const Footer = () => {
                         <div className="col-md-2"></div>
                         <div className="col-md-10">
                             <div className="mobileHide">
-
+                                <a href=' https://www.facebook.com/' target='_blank' rel="noreferrer" >
+                                    <img src={Facebook} alt="alternative" className="footer-img" />
+                                </a>
+                                <a href=' https://twitter.com/' target='_blank' rel="noreferrer" >
+                                    <img src={Twitter} alt="alternative" className="footer-img" />
+                                </a>
                             </div>
                         </div>
                     </div>
