@@ -2,6 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Footer.css"; 
 
+import LinkedIn from "../../images/linkedin.svg";
+import Twitter from "../../images/twitter.svg";
+import Instagram from "../../images/instagram.svg";
+import Facebook from "../../images/facebook.svg";
+
 const Footer = () => {
     return (
         <div>
@@ -42,7 +47,9 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-md-2"></div>
                         <div className="col-md-10">
+                            <div className="mobileHide">
 
+                            </div>
                         </div>
                     </div>
                 </div>
