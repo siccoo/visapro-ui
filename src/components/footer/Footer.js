@@ -27,6 +27,9 @@ const Footer = () => {
                             <Link to="/address" className="list-head">Contact us</Link>
                         </li>
                     </ul>
+                    <p>3, oladele close off makarios street,
+Ajah, Lagos,
+Nigeria</p>
                 </div>
             </section>
         </div>
