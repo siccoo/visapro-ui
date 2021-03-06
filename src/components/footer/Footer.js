@@ -28,9 +28,10 @@ const Footer = () => {
                         </li>
                     </ul>
                     <p>3, oladele close off makarios street,
-Ajah, Lagos,
-Nigeria</p>
+                        Ajah, Lagos,
+                        Nigeria</p>
                 </div>
+                
             </section>
         </div>
     )
