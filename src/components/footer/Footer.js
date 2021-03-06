@@ -8,8 +8,11 @@ const Footer = () => {
             <section className="footer-section">
                 <div className="col-md-1"></div>
                 <div className="col-md-1"></div>  
-                <div>
-                    
+                <div className="col-md-3">
+
+                </div>
+                <div className="col-md-3">
+
                 </div>
             </section>
         </div>
