@@ -7,8 +7,10 @@ const Footer = () => {
         <div>
             <section className="footer-section">
                 <div className="col-md-1"></div>
+                <div className="col-md-1"></div>  
+                <div>
                     
-                
+                </div>
             </section>
         </div>
     )
