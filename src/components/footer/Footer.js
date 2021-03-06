@@ -34,6 +34,8 @@ const Footer = () => {
                                 Nigeria</p>
                         </div>
                     </div>
+                    <div className="col-md-4"></div>
+                    
                 </div>
             </section>
         </div>
