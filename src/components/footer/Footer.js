@@ -39,7 +39,9 @@ const Footer = () => {
                         <div className="col-md-7"><hr /></div>
                         <div className="col-md-5"></div>
                     </div>
+                    <div className="row">
 
+                    </div>
                 </div>
             </section>
         </div>
