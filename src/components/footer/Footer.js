@@ -10,7 +10,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-md-1"></div>
                         <div className="col-md-1"></div>  
-                        <div className="col-md-3">
+                        <div className="col-md-2">
                             <ul className="unorder-list">
                                 <li className="list-item">
                                     <Link to="/contact" className="list-head">Contact us</Link>
@@ -33,9 +33,13 @@ const Footer = () => {
                                 Ajah, Lagos,
                                 Nigeria</p>
                         </div>
+                        <div className="col-md-5"></div>
                     </div>
-                    <div className="col-md-4"></div>
-                    
+                    <div className="row">
+                        <div className="col-md-7"><hr /></div>
+                        <div className="col-md-5"></div>
+                    </div>
+
                 </div>
             </section>
         </div>
