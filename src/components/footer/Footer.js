@@ -49,10 +49,16 @@ const Footer = () => {
                         <div className="col-md-10">
                             <div className="mobileHide">
                                 <a href=' https://www.facebook.com/' target='_blank' rel="noreferrer" >
-                                    <img src={Facebook} alt="alternative" className="footer-img" />
+                                    <img src={LinkedIn} alt="alternative" className="footer-img" />
                                 </a>
                                 <a href=' https://twitter.com/' target='_blank' rel="noreferrer" >
                                     <img src={Twitter} alt="alternative" className="footer-img" />
+                                </a>
+                                <a href=' https://www.facebook.com/salesruby/?ref=br_rs' target='_blank' rel="noreferrer" >
+                                    <img src={Instagram} alt="alternative" className="footer-img" />
+                                </a>
+                                <a href=' https://twitter.com/SalesRubyNG' target='_blank' rel="noreferrer" >
+                                    <img src={Facebook} alt="alternative" className="footer-img" />
                                 </a>
                             </div>
                         </div>
