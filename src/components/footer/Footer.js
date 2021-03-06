@@ -48,16 +48,32 @@ const Footer = () => {
                         <div className="col-md-2"></div>
                         <div className="col-md-10">
                             <div className="mobileHide">
-                                <a href=' https://www.facebook.com/' target='_blank' rel="noreferrer" >
+                                <a href=' https://www.linkedin.com/' target='_blank' rel="noreferrer" >
                                     <img src={LinkedIn} alt="alternative" className="footer-img" />
                                 </a>
                                 <a href=' https://twitter.com/' target='_blank' rel="noreferrer" >
                                     <img src={Twitter} alt="alternative" className="footer-img" />
                                 </a>
-                                <a href=' https://www.facebook.com/salesruby/?ref=br_rs' target='_blank' rel="noreferrer" >
+                                <a href=' https://instagram.com/' target='_blank' rel="noreferrer" >
                                     <img src={Instagram} alt="alternative" className="footer-img" />
                                 </a>
-                                <a href=' https://twitter.com/SalesRubyNG' target='_blank' rel="noreferrer" >
+                                <a href=' https://www.facebook.com/' target='_blank' rel="noreferrer" >
+                                    <img src={Facebook} alt="alternative" className="footer-img" />
+                                </a>
+                            </div>
+                        </div>
+                        <div className="col-md-10">
+                            <div className="mobileShow">
+                                <a href=' https://www.linkedin.com/' target='_blank' rel="noreferrer" >
+                                    <img src={LinkedIn} alt="alternative" className="footer-img" />
+                                </a>
+                                <a href=' https://twitter.com/' target='_blank' rel="noreferrer" >
+                                    <img src={Twitter} alt="alternative" className="footer-img" />
+                                </a>
+                                <a href=' https://instagram.com/' target='_blank' rel="noreferrer" >
+                                    <img src={Instagram} alt="alternative" className="footer-img" />
+                                </a>
+                                <a href=' https://www.facebook.com/' target='_blank' rel="noreferrer" >
                                     <img src={Facebook} alt="alternative" className="footer-img" />
                                 </a>
                             </div>
