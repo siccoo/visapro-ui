@@ -9,3 +9,22 @@
 .footer-section .unorder-list {
     list-style-type: none;
 }
+
+.footer-section .list-head {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    list-style: none;
+    text-decoration: none !important;
+}
+
+@media only screen and (max-width:1024px) {
+    .footer-section .list-head {
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
