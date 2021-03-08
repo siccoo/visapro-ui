@@ -33,10 +33,10 @@ const Footer = () => {
                                 <li className="list-item">
                                     <Link to="/address" className="list-head">Contact us</Link>
                                 </li>
-                            </ul>
-                            <p>3, oladele close off makarios street,
-                                Ajah, Lagos,
+                                <p>3, oladele close off makarios street,<br/>
+                                Ajah, Lagos,<br/>
                                 Nigeria</p>
+                            </ul>
                         </div>
                         <div className="col-md-5"></div>
                     </div>
