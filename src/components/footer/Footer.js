@@ -45,24 +45,24 @@ const Footer = () => {
                         <div className="col-md-5"></div>
                     </div>
                     <div className="row">
-                        <div className="col-md-2"></div>
-                        <div className="col-md-10">
+                        <div className="col-md-3"></div>
+                        <div className="col-md-3">
                             <div className="mobileHide">
                                 <a href=' https://www.linkedin.com/' target='_blank' rel="noreferrer" >
                                     <img src={LinkedIn} alt="alternative" className="footer-img" />
-                                </a>
+                                </a> &nbsp; &nbsp;
                                 <a href=' https://twitter.com/' target='_blank' rel="noreferrer" >
                                     <img src={Twitter} alt="alternative" className="footer-img" />
-                                </a>
+                                </a> &nbsp; &nbsp;
                                 <a href=' https://instagram.com/' target='_blank' rel="noreferrer" >
                                     <img src={Instagram} alt="alternative" className="footer-img" />
-                                </a>
+                                </a> &nbsp; &nbsp;
                                 <a href=' https://www.facebook.com/' target='_blank' rel="noreferrer" >
                                     <img src={Facebook} alt="alternative" className="footer-img" />
                                 </a>
                             </div>
                         </div>
-                        <div className="col-md-10">
+                        <div className="col-md-3">
                             <div className="mobileShow">
                                 <a href=' https://www.linkedin.com/' target='_blank' rel="noreferrer" >
                                     <img src={LinkedIn} alt="alternative" className="footer-img" />
@@ -78,6 +78,7 @@ const Footer = () => {
                                 </a>
                             </div>
                         </div>
+                        <div className="col-md-6"></div>
                     </div>
                 </div>
             </section>
